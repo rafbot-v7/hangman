@@ -1,7 +1,5 @@
 # Hangman App
 
-![Hangman App](hangman_screenshot.png)
-
 ## Overview
 
 The Hangman App is a classic word-guessing game implemented in Flutter. It allows users to guess letters to reveal a hidden word within a limited number of attempts. The game features multiple difficulty levels and keeps track of scores.
